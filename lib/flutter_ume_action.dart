@@ -1,4 +1,4 @@
-library flutter_ume;
+library flutter_ume_action;
 
 export 'monitor/awesome_monitor.dart';
 export 'monitor/monitor_action_widget.dart';

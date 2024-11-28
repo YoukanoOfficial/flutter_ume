@@ -1,9 +1,9 @@
 import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
-import 'package:flutter_ume/monitor/monitor_action_widget.dart';
-import 'package:flutter_ume/monitor/monitor_message_notifier.dart';
-import 'package:flutter_ume/monitor/utils/inner_utils.dart';
+import 'package:flutter_ume_action/monitor/monitor_action_widget.dart';
+import 'package:flutter_ume_action/monitor/monitor_message_notifier.dart';
+import 'package:flutter_ume_action/monitor/utils/inner_utils.dart';
 
 class Monitor {
   static const String MONITOR_TAG = "MONITOR_TAGS";

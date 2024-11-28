@@ -1,4 +1,4 @@
-name: flutter_ume
+name: flutter_ume_action
 description: "UME Flutter Project."
 version: 0.0.1
 homepage:
@@ -11,7 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
 
-  ume:
+  flutter_ume:
+    git:
+      url: https://github.com/YoukanoOfficial/flutter-ume.git
+      ref: v1.0.0
   cached_network_image:
   oktoast:
   path_provider:
@@ -23,7 +26,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec

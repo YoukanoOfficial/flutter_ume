@@ -3,11 +3,11 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:oktoast/oktoast.dart';
-import 'package:flutter_ume/monitor/page/log_recorder_detail_page.dart';
-import 'package:flutter_ume/monitor/telegram_bot.dart';
-import 'package:flutter_ume/monitor/utils/file_utils.dart';
-import 'package:flutter_ume/monitor/utils/inner_utils.dart';
-import 'package:flutter_ume/monitor/utils/navigator_util.dart';
+import 'package:flutter_ume_action/monitor/page/log_recorder_detail_page.dart';
+import 'package:flutter_ume_action/monitor/telegram_bot.dart';
+import 'package:flutter_ume_action/monitor/utils/file_utils.dart';
+import 'package:flutter_ume_action/monitor/utils/inner_utils.dart';
+import 'package:flutter_ume_action/monitor/utils/navigator_util.dart';
 
 class LogRecorderPage extends StatefulWidget {
   @override

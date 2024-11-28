@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:json_shrink_widget/json_shrink_widget.dart';
 import 'package:oktoast/oktoast.dart';
-import 'package:flutter_ume/monitor/awesome_monitor.dart';
-import 'package:flutter_ume/monitor/monitor_message_notifier.dart';
-import 'package:flutter_ume/monitor/utils/inner_utils.dart';
-import 'package:flutter_ume/monitor/utils/navigator_util.dart';
-import 'package:flutter_ume/monitor/widgets/input_panel_field.dart';
+import 'package:flutter_ume_action/monitor/awesome_monitor.dart';
+import 'package:flutter_ume_action/monitor/monitor_message_notifier.dart';
+import 'package:flutter_ume_action/monitor/utils/inner_utils.dart';
+import 'package:flutter_ume_action/monitor/utils/navigator_util.dart';
+import 'package:flutter_ume_action/monitor/widgets/input_panel_field.dart';
 
 import 'log_recorder_page.dart';
 

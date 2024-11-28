@@ -3,10 +3,10 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:oktoast/oktoast.dart';
-import 'package:flutter_ume/monitor/awesome_monitor.dart';
-import 'package:flutter_ume/monitor/monitor_message_notifier.dart';
-import 'package:flutter_ume/monitor/page/monitor_info_detail_page.dart';
-import 'package:flutter_ume/monitor/utils/navigator_util.dart';
+import 'package:flutter_ume_action/monitor/awesome_monitor.dart';
+import 'package:flutter_ume_action/monitor/monitor_message_notifier.dart';
+import 'package:flutter_ume_action/monitor/page/monitor_info_detail_page.dart';
+import 'package:flutter_ume_action/monitor/utils/navigator_util.dart';
 
 int _lastClick = -1;
 

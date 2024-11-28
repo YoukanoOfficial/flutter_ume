@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_ume/monitor/utils/inner_utils.dart';
+import 'package:flutter_ume_action/monitor/utils/inner_utils.dart';
 
 class LogRecorderDetailPage extends StatelessWidget {
   final File file;
